@@ -4,6 +4,6 @@ import "fmt"
 
 func main(){
 
-fmt.Printf("hello world");
+fmt.Printf("Hello world \t Google developed this lang \n");
 }
 
